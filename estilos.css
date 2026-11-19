@@ -8,14 +8,14 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f6f8;
-    color: #333;
+    background-color: #7ebcdb;
+    color: #002770;
 }
 
 /* ENCABEZADO */
 header {
-    background-color: #064663;
-    color: white;
+    background-color: #39bcc0;
+    color: rgb(165, 150, 179);
     text-align: center;
     padding: 30px;
 }
@@ -30,20 +30,20 @@ header p {
 
 /* MENÚ */
 nav {
-    background-color: #087e9b;
+    background-color: #00f7ff;
     text-align: center;
     padding: 15px;
 }
 
 nav a {
-    color: white;
+    color: rgb(8, 94, 86);
     text-decoration: none;
     padding: 15px;
     font-weight: bold;
 }
 
 nav a:hover {
-    background-color: #064663;
+    background-color: #7bddb4;
 }
 
 /* CONTENIDO */
@@ -60,7 +60,7 @@ section {
 }
 
 section h2 {
-    color: #064663;
+    color: #086168;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -108,7 +108,7 @@ section p {
 }
 
 .tarjeta h3 {
-    color: #087e9b;
+    color: #9676af;
     margin: 10px;
 }
 
@@ -118,7 +118,7 @@ section p {
 }
 
 .paquetes h3 {
-    color: #087e9b;
+    color: #57caa8;
     margin-top: 20px;
 }
 
@@ -129,13 +129,13 @@ section p {
 }
 
 #promociones h3 {
-    color: #d35400;
+    color: #a900d3;
     font-size: 25px;
 }
 
 /* PIE DE PÁGINA */
 footer {
-    background-color: #064663;
+    background-color: #b93d81;
     color: white;
     text-align: center;
     padding: 30px;
